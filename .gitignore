@@ -1,12 +1,12 @@
 # Build artifacts
 build/
-**/build/
-**/.cache/
-**/zephyr/
-**/CMakeFiles/
-**/CMakeCache.txt
-**/cmake_install.cmake
-**/Makefile
+*/build/
+*/.cache/
+*/zephyr/
+*/CMakeFiles/
+*/CMakeCache.txt
+*/cmake_install.cmake
+*/Makefile
 
 # IDE
 .vscode/
