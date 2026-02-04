@@ -2,7 +2,7 @@
 
 Two embedded + security portfolio projects on the nRF5340 DK (Zephyr / nRF Connect SDK).
 
-# Projects
+## Projects
 ## 1) Secure Sensor Node
 - IMU sampling + simple motion classification
 - BLE GATT exposes metrics + counters
