@@ -1,0 +1,7 @@
+default: hello_world
+build_dir: C:/Users/Usman/secure-node/build_uart
+domains:
+  - name: hello_world
+    build_dir: C:/Users/Usman/secure-node/build_uart/hello_world
+flash_order:
+  - hello_world

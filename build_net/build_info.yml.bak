@@ -1,0 +1,5 @@
+west:
+  command: C:\ncs\toolchains\66cdf9b75e\opt\bin\Scripts\west build --no-sysbuild -b
+    nrf5340dk/nrf5340/cpunet -p always -d build_net C:\ncs\v3.2.01\zephyr\samples\bluetooth\hci_ipc
+  topdir: C:\ncs\v3.2.01
+  version: 1.4.0

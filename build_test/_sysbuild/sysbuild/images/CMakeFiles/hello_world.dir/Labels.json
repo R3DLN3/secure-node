@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/CMakeFiles/hello_world"
+		},
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/CMakeFiles/hello_world.rule"
+		},
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/CMakeFiles/hello_world-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-build.rule"
+		},
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-download.rule"
+		},
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-install.rule"
+		},
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hello_world"
+		],
+		"name" : "hello_world"
+	}
+}

@@ -1,0 +1,22 @@
+cmake:
+  board:
+    name: 'nrf5340dk'
+    path:
+     - 'C:/ncs/v3.2.01/zephyr/boards/nordic/nrf5340dk'
+    qualifiers: 'nrf5340/cpuapp'
+    revision: ''
+  images:
+   - name: 'hello_world'
+     source-dir: 'C:/ncs/v3.2.01/zephyr/samples/hello_world'
+     type: 'MAIN'
+  kconfig:
+    files:
+     - 'C:/Users/Usman/secure-node/build_uart/_sysbuild/empty.conf'
+     - 'C:/Users/Usman/secure-node/build_uart/_sysbuild/empty.conf'
+    user-files:
+     - 'C:/Users/Usman/secure-node/build_uart/_sysbuild/empty.conf'
+version: '0.1.0'
+west:
+  command: 'C:\ncs\toolchains\66cdf9b75e\opt\bin\Scripts\west build -b nrf5340dk/nrf5340/cpuapp -p always -d build_uart C:\ncs\v3.2.01\zephyr\samples\hello_world -- -DOVERLAY_CONFIG=C:\Users\Usman\secure-node\force_uart.conf'
+  topdir: 'C:\ncs\v3.2.01'
+  version: '1.4.0'

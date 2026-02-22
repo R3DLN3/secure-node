@@ -1,0 +1,13 @@
+# Target labels
+ hello_world
+# Source files and their labels
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/CMakeFiles/hello_world
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/CMakeFiles/hello_world.rule
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/CMakeFiles/hello_world-complete.rule
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-build.rule
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-configure.rule
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-download.rule
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-install.rule
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-mkdir.rule
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-patch.rule
+C:/Users/Usman/secure-node/build_test/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-update.rule
